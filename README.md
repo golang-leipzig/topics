@@ -8,3 +8,7 @@ Fork this repo and create a pull request with a topic (or topics) you are intere
 
 * dns (AL)
 * octosql (MC)
+* seaweedfs ([FB
+  haystack](https://engineering.fb.com/core-data/needle-in-a-haystack-efficient-storage-of-billions-of-photos/)
+[paper](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
+implementation, S3 API) demo and code walkthrough (MC)
