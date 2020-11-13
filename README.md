@@ -12,3 +12,5 @@ Fork this repo and create a pull request with a topic (or topics) you are intere
   haystack](https://engineering.fb.com/core-data/needle-in-a-haystack-efficient-storage-of-billions-of-photos/)
 [paper](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 implementation, S3 API) demo and code walkthrough (MC) -- [Leipzig Gophers #13](https://golangleipzig.space/posts/meetup-13-wrapup/)
+* [ ] fuzzing
+* [ ] command line tools which use deep learning
