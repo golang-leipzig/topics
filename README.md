@@ -14,3 +14,4 @@ Fork this repo and create a pull request with a topic (or topics) you are intere
 implementation, S3 API) demo and code walkthrough (MC) -- [Leipzig Gophers #13](https://golangleipzig.space/posts/meetup-13-wrapup/)
 * [ ] fuzzing
 * [ ] command line tools which use deep learning
+* [ ] "higher order go" (cf. [perl](https://hop.perl.plover.com/book/pdf/HigherOrderPerl.pdf#page=3))
